@@ -51,6 +51,8 @@
     <Compile Include="L1_15.cs" />
     <Compile Include="L1_16.cs" />
     <Compile Include="L1_17.cs" />
+    <Compile Include="L1_18.cs" />
+    <Compile Include="L1_19.cs" />
     <Compile Include="L1_2.cs" />
     <Compile Include="L1_3.cs" />
     <Compile Include="L1_4.cs" />
