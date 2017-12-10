@@ -9,10 +9,10 @@ namespace ChapterExamples
 {
     class L1_19
     {
-        public static void Main()
-        {
-            Console.ReadKey();
-        }
+        //public static void Main()
+        //{
+        //    Console.ReadKey();
+        //}
 
         public Task SleepAsyncA(int millisecondsTimeout) {
             return Task.Run(() => Thread.Sleep(millisecondsTimeout));
