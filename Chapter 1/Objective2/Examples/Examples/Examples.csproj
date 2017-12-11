@@ -42,7 +42,16 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Program.cs" />
+    <Compile Include="L1_35.cs" />
+    <Compile Include="L1_36.cs" />
+    <Compile Include="L1_37.cs" />
+    <Compile Include="L1_39.cs" />
+    <Compile Include="L1_40.cs" />
+    <Compile Include="L1_41.cs" />
+    <Compile Include="L1_42.cs" />
+    <Compile Include="L1_43.cs" />
+    <Compile Include="L1_44.cs" />
+    <Compile Include="L1_45.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
