@@ -27,7 +27,6 @@ namespace ChapterExamples
             Console.WriteLine("k2 : {0}", r2);
 
             Console.ReadKey();
-
         }
     }
 }
